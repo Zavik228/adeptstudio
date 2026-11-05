@@ -1,0 +1,14 @@
+# Базы данных (живут только в /app/data на Bothost)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Системное
+.DS_Store
+.env
